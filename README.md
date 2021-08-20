@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me chiefezege@gmail.com
+- 📫 How to reach me joshchief169@gmail.com
 
 <!---
 joshchief/joshchief is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
