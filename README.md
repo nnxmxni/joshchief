@@ -20,7 +20,6 @@ I am an experienced and highly skilled software engineer focused on backend deve
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nnxmxni&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nnxmxni&layout=compact&theme=tokyonight&hide_border=true)
 
