@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Joshua Nnamani
 
-🚀 ** Software Engineer** | 🛠️ **PHP (Laravel) | 🌀Golang**  | 🔧**Node.JS**
+🚀  Software Engineer | 🛠️ **PHP (Laravel) | 🌀Golang**  | 🔧**Node.JS**
 
 I am an experienced and highly skilled software engineer focused on backend development, with more than half a decade of experience in building scalable, high-performance, and sustainable solutions. I have achieved these using a range of programming languages: PHP, Javascript, and GO. I have experience working with startups to develop highly complicated systems that have improved user experience, streamlined processes, and spurred company expansion.
 
