@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Joshua Nnamani
 
-🚀 **Backend Software Engineer** | 🛠️ **PHP (Laravel) | Learning Golang**  
+🚀 **Backend Software Engineer** | 🛠️ **PHP (Laravel) | Golang**  
 
-I specialize in building scalable and efficient backend systems using **PHP (Laravel)** and am currently diving into **Golang** to expand my expertise. Passionate about clean code, best practices, and optimizing performance.
+I am an experienced and highly skilled software engineer focused on backend development, with more than half a decade of experience in building scalable, high-performance, and sustainable solutions. I have achieved these using a range of programming languages: PHP, Javascript, and GO. I have experience working with startups to develop highly complicated systems that have improved user experience, streamlined processes, and spurred company expansion.
 
 ---
 
@@ -27,7 +27,7 @@ I specialize in building scalable and efficient backend systems using **PHP (Lar
 ---
 
 ## 🌱 Currently Learning  
-- 📌 **Golang** for backend development  
+- 📌 Exploring **Data Structures and Algorithms**
 - 📌 Exploring **Microservices architecture**  
 - 📌 Deepening knowledge in **Docker & Kubernetes**  
 
@@ -35,7 +35,7 @@ I specialize in building scalable and efficient backend systems using **PHP (Lar
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white])(https://www.linkedin.com/in/kelvin-edeh-092864320/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white])(https://www.linkedin.com/in/joshua-nnamani-42204b180/)
 ---
 
 ⭐ **"Keep learning, keep building!"** 🚀  
